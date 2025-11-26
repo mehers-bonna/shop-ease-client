@@ -2,7 +2,7 @@
 Shopease is a modern e-commerce web application built with **Next.js 13** and **Tailwind CSS**. It allows users to browse products, view details, and for authenticated users, manage items directly from the website. The project demonstrates server-side rendering, client-side interactivity, and authentication integration with **NextAuth.js**.
 
 
-##Live link:
+##Live link:  https://shop-ease-client-smoky.vercel.app
 
 
 ###Setup & Installation
@@ -28,7 +28,7 @@ npm run dev
  `/login`  Login page – user authentication via NextAuth.js 
  `/register`  Register page – user authentication via NextAuth.js 
  `/add-item`  Add Item page – visible only after login; allows authenticated users to add new products (accessible via navbar profile hover) 
- `/manage-items` | Manage Items page – visible only after login; allows authenticated users to update or delete existing products (accessible via navbar profile hover) 
+ `/manage-items`  Manage Items page – visible only after login; allows authenticated users to update or delete existing products (accessible via navbar profile hover) 
  `/about`  About page – information about the shop 
  `/contact`  Contact page – contact form or details  
 
