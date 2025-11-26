@@ -9,7 +9,7 @@ const HeroBanner = () => {
         
         <div className="absolute inset-0">
           <Image
-            src="/images/hero-bg.jpg" 
+            src="/images/hero-bg-1.jpg" 
             alt="ShopEase Banner"
             layout="fill"
             objectFit="cover"
