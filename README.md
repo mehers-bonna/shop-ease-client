@@ -9,7 +9,7 @@ Shopease is a modern e-commerce web application built with **Next.js 13** and **
 
 1.Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/shopease.git
+   git clone https://github.com/mehers-bonna/shop-ease-client.git
    cd shopease
 
 2.Install dependencies:
