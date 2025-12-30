@@ -3,14 +3,14 @@
 ShopEase is a high-performance e-commerce web application built with **Next.js 14**, **Tailwind CSS**, and the **MERN** stack. It features a seamless shopping experience with server-side rendering, role-based access, and secure authentication.
 
 ## 🚀 Live Links
-- **Live Website:** [https://shop-ease-client-smoky.vercel.app](https://shop-ease-client-smoky.vercel.app)
-- **Server Repository:** [Add your GitHub Server Link Here]
+- **Live Website:** https://shop-ease-server-pink.vercel.app/
+- **Server Repository:** https://github.com/mehers-bonna/shop-ease-server.git
 
 ---
 
 ## 📸 Project Preview
 <p align="center">
-  <img src="screenshot.png" alt="ShopEase Screenshot" width="100%" />
+  <img src="shopEase.PNG" alt="ShopEase Screenshot" width="100%" />
 </p>
 
 ---
